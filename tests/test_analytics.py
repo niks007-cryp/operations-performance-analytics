@@ -1,4 +1,4 @@
-from src.analytics import generate_operations_data, add_metrics, bottleneck_summary
+from analytics import generate_operations_data, add_metrics, bottleneck_summary
 
 
 def test_generation_reproducible():
